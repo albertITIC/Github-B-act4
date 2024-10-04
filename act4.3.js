@@ -11,4 +11,3 @@ function convertirCF() {
         console.log("Només es pot C ó F");
     }
 }
-?
